@@ -1,2 +1,2 @@
 # Blog
-Sistema Blog comunidade
+Sistema Blog comunidade desenvolvido com Pythone e Flask
