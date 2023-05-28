@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="Exerciciospython.exe107.teste.exe107" />
+          <option value="Aulas_flask.app.flask_sqlalchemy" />
         </list>
       </option>
     </inspection_tool>
